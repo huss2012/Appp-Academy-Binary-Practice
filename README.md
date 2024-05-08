@@ -18,10 +18,6 @@
 1. 8    = 0x8
 2. 24   = 0x18
 3. 255  = 0xff
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 ##Base 10 to ASCII##
 1. 65
 2. 66
