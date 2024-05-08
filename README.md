@@ -1,7 +1,7 @@
 ## Binary to base 10
 1. 0b1010 = 10
 2. 0b0011 = 3
-##Binary to hexadecimal
+## Binary to hexadecimal
 1. 0b1010 = 0xA
 2. 0b0011 = 0x3
 ## Hexadecimal to base 10
@@ -33,7 +33,8 @@
 2. 0b01000010
 3. 0b01100001
 4. 0b01100010
-| Syntax | Description |
+
+| Syntax      | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Header      | Title       |
+| Paragraph   | Text        |
